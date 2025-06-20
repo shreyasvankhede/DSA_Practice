@@ -40,14 +40,14 @@ DSA-Practice/
 │   ├── missing_number.py
 │   ├── max_consecutive_ones.py
 │   ├── move_zeroes.py
-│   └── sort_colors.py
+│   ├── sort_colors.py
 │   └── maximum_subarray.py
 ├── Strings/
 │   ├── longest_common_prefix.py
 │   ├── roman_to_integer.py
 │   ├── add_binary.py
 │   ├── valid_parentheses.py
-│   ├── palindrome_number.py
+│   └── palindrome_number.py
 ├── LinkedLists/
 │   ├── merge_two_sorted_lists.py
 │   └── add_two_numbers.py
@@ -56,7 +56,8 @@ DSA-Practice/
 ├── TwoPointers/
 │   └── remove_duplicates_from_sorted_array.py
 ├── README.md
-├── .gitignore
+└── .gitignore
+
 
 
 
