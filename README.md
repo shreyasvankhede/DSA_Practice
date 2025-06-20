@@ -32,7 +32,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 ---
 
 ## 📁 Folder Structure
-/DSA-Practice
+DSA-Practice/
 ├── Arrays/
 │   ├── two_sum.py
 │   ├── majority_element.py
@@ -40,8 +40,8 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 │   ├── missing_number.py
 │   ├── max_consecutive_ones.py
 │   ├── move_zeroes.py
-│   ├── sort_colors.py
-│   ├── maximum_subarray.py
+│   └── sort_colors.py
+│   └── maximum_subarray.py
 ├── Strings/
 │   ├── longest_common_prefix.py
 │   ├── roman_to_integer.py
@@ -50,12 +50,14 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 │   ├── palindrome_number.py
 ├── LinkedLists/
 │   ├── merge_two_sorted_lists.py
-│   ├── add_two_numbers.py
+│   └── add_two_numbers.py
 ├── BitManipulation/
-│   ├── single_number.py
+│   └── single_number.py
 ├── TwoPointers/
-│   ├── remove_duplicates_from_sorted_array.py
+│   └── remove_duplicates_from_sorted_array.py
 ├── README.md
+├── .gitignore
+
 
 
 ## 🔧 How to Use
