@@ -1,3 +1,6 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/shreyasvankhede/DSA_Practice)
+
+
 # 🧠 DSA Practice in Python
 
 This repository contains LeetCode-style data structure and algorithm problems I've solved in Python. All problems are categorized, written with clean logic, and regularly pushed as part of my prep for software engineering internships and top-tier technical interviews.
