@@ -2,7 +2,7 @@
 
 This repository contains LeetCode-style data structure and algorithm problems I've solved in Python. All problems are categorized, written with clean logic, and regularly pushed as part of my prep for software engineering internships and top-tier technical interviews.
 
----
+
 
 ## ✅ Current Progress
 
@@ -26,12 +26,14 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Medium     | Sort Colors                               | Dutch Flag / Pointers| ✅       |
 | Medium     | Add Two Numbers                           | Linked List         | ✅       |
 
-> 🧠 Total Solved: 17 (13 Easy, 4 Medium)  
+> 🧠 Total Solved: 18 (14 Easy, 4 Medium)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
 
 ## 📁 Folder Structure
+
+```
 DSA-Practice/
 ├── Arrays/
 │   ├── two_sum.py
@@ -55,9 +57,17 @@ DSA-Practice/
 │   └── single_number.py
 ├── TwoPointers/
 │   └── remove_duplicates_from_sorted_array.py
-├── README.md
-└── .gitignore
+└── README.md
+```
 
+---
+📌 Notes
+
+    Some of the DSA solutions in this repository were originally implemented in C++ and later converted to Python using ChatGPT for consistency and readability.
+
+    ChatGPT was also used to convert raw LeetCode function submissions into clean, standalone Python scripts with test cases to make them more presentable and GitHub-ready.
+
+    All problems include a simple test block under if __name__ == "__main__": for quick testing and demonstration.
 
 
 
@@ -76,10 +86,3 @@ Each file includes:
     Sample input/output
 
 
-📌 Notes
-
-    Some of the DSA solutions in this repository were originally implemented in C++ and later converted to Python using ChatGPT for consistency and readability.
-
-    ChatGPT was also used to convert raw LeetCode function submissions into clean, standalone Python scripts with test cases to make them more presentable and GitHub-ready.
-
-    All problems include a simple test block under if __name__ == "__main__": for quick testing and demonstration.
