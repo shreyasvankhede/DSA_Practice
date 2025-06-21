@@ -24,12 +24,13 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Easy       | Palindrome Number                         | Math                | ✅       |
 | Easy       | Merge Two Sorted Lists                    | Linked List         | ✅       |
 | Easy       | Max Consecutive Ones                      | Array               | ✅       |
+| Easy       | Valid Anagram                             | String              | ✅       |
 | Medium     | Maximum Subarray                          | Kadane’s Algorithm  | ✅       |
 | Medium     | Move Zeroes                               | Two Pointers        | ✅       |
-| Medium     | Sort Colors                               | Dutch Flag / Pointers| ✅       |
+| Medium     | Sort Colors                               | Dutch Flag /Pointers| ✅       |
 | Medium     | Add Two Numbers                           | Linked List         | ✅       |
 
-> 🧠 Total Solved: 18 (14 Easy, 4 Medium)  
+> 🧠 Total Solved: 19 (15 Easy, 4 Medium)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
@@ -52,6 +53,7 @@ DSA-Practice/
 │   ├── roman_to_integer.py
 │   ├── add_binary.py
 │   ├── valid_parentheses.py
+│   ├── valid_anagram.py
 │   └── palindrome_number.py
 ├── LinkedLists/
 │   ├── merge_two_sorted_lists.py
@@ -87,5 +89,4 @@ Each file includes:
     Problem description (in comment)
 
     Sample input/output
-
 
