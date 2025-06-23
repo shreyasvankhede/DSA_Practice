@@ -25,13 +25,14 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Easy       | Merge Two Sorted Lists                    | Linked List         | ✅       |
 | Easy       | Max Consecutive Ones                      | Array               | ✅       |
 | Easy       | Valid Anagram                             | String              | ✅       |
+| Easy       | Find the Difference                       | String/Bit Manip..  | ✅       |
 | Medium     | Maximum Subarray                          | Kadane’s Algorithm  | ✅       |
 | Medium     | Move Zeroes                               | Two Pointers        | ✅       |
 | Medium     | Sort Colors                               | Dutch Flag /Pointers| ✅       |
 | Medium     | Add Two Numbers                           | Linked List         | ✅       |
 | Hard       | Median of Two Sorted Arrays               | Array               | ✅       |
 
-> 🧠 Total Solved: 20 (15 Easy, 4 Medium,1 Hard)  
+> 🧠 Total Solved: 21 (16 Easy, 4 Medium,1 Hard)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
@@ -61,6 +62,7 @@ DSA-Practice/
 │   ├── merge_two_sorted_lists.py
 │   └── add_two_numbers.py
 ├── BitManipulation/
+│   ├── find_the_difference.py
 │   └── single_number.py
 ├── TwoPointers/
 │   └── remove_duplicates_from_sorted_array.py
