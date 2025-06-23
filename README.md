@@ -26,13 +26,14 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Easy       | Max Consecutive Ones                      | Array               | ✅       |
 | Easy       | Valid Anagram                             | String              | ✅       |
 | Easy       | Find the Difference                       | String/Bit Manip..  | ✅       |
+| Easy       | Merge sorted Array                        | Array,Two pointer   | ✅       |
 | Medium     | Maximum Subarray                          | Kadane’s Algorithm  | ✅       |
 | Medium     | Move Zeroes                               | Two Pointers        | ✅       |
 | Medium     | Sort Colors                               | Dutch Flag /Pointers| ✅       |
 | Medium     | Add Two Numbers                           | Linked List         | ✅       |
 | Hard       | Median of Two Sorted Arrays               | Array               | ✅       |
 
-> 🧠 Total Solved: 21 (16 Easy, 4 Medium,1 Hard)  
+> 🧠 Total Solved: 22 (17 Easy, 4 Medium,1 Hard)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
@@ -65,6 +66,7 @@ DSA-Practice/
 │   ├── find_the_difference.py
 │   └── single_number.py
 ├── TwoPointers/
+│   ├── merge_sorted_array.py
 │   └── remove_duplicates_from_sorted_array.py
 └── README.md
 ```
