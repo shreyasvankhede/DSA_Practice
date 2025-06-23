@@ -29,8 +29,9 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Medium     | Move Zeroes                               | Two Pointers        | ✅       |
 | Medium     | Sort Colors                               | Dutch Flag /Pointers| ✅       |
 | Medium     | Add Two Numbers                           | Linked List         | ✅       |
+| Hard       | Median of Two Sorted Arrays               | Array               | ✅       |
 
-> 🧠 Total Solved: 19 (15 Easy, 4 Medium)  
+> 🧠 Total Solved: 20 (15 Easy, 4 Medium,1 Hard)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
@@ -46,6 +47,7 @@ DSA-Practice/
 │   ├── missing_number.py
 │   ├── max_consecutive_ones.py
 │   ├── move_zeroes.py
+│   ├── median_of_two_sorted_arrays.py
 │   ├── sort_colors.py
 │   └── maximum_subarray.py
 ├── Strings/
