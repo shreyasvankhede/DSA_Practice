@@ -24,6 +24,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Easy       | Palindrome Number                         | Math                | ✅       |
 | Easy       | Merge Two Sorted Lists                    | Linked List         | ✅       |
 | Easy       | Max Consecutive Ones                      | Array               | ✅       |
+| Easy       | Contains Duplicate                        | Array               | ✅       |
 | Easy       | Valid Anagram                             | String              | ✅       |
 | Easy       | Find the Difference                       | String/Bit Manip..  | ✅       |
 | Easy       | Merge sorted Array                        | Array,Two pointer   | ✅       |
@@ -50,6 +51,7 @@ DSA-Practice/
 │   ├── max_consecutive_ones.py
 │   ├── move_zeroes.py
 │   ├── median_of_two_sorted_arrays.py
+│   ├── contains_duplicate.py
 │   ├── sort_colors.py
 │   └── maximum_subarray.py
 ├── Strings/
