@@ -24,9 +24,12 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Easy       | Palindrome Number                         | Math                | ✅       |
 | Easy       | Merge Two Sorted Lists                    | Linked List         | ✅       |
 | Easy       | Max Consecutive Ones                      | Array               | ✅       |
+| Easy       | Plus One                                  | Array               | ✅       |
 | Easy       | Contains Duplicate                        | Array               | ✅       |
 | Easy       | Valid Anagram                             | String              | ✅       |
 | Easy       | Find the Difference                       | String/Bit Manip..  | ✅       |
+| Easy       | Pow(x)                                    | Math                | ✅       |
+| Easy       | Sqrt(x)                                   | Array/Math          | ✅       |
 | Easy       | Merge sorted Array                        | Array,Two pointer   | ✅       |
 | Easy       | Third maximum number                      | Array               | ✅       |
 | Medium     | Maximum Subarray                          | Kadane’s Algorithm  | ✅       |
@@ -35,7 +38,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Medium     | Add Two Numbers                           | Linked List         | ✅       |
 | Hard       | Median of Two Sorted Arrays               | Array               | ✅       |
 
-> 🧠 Total Solved: 24 (19 Easy, 4 Medium,1 Hard)  
+> 🧠 Total Solved: 26 (21 Easy, 4 Medium,1 Hard)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
@@ -51,6 +54,7 @@ DSA-Practice/
 │   ├── missing_number.py
 │   ├── max_consecutive_ones.py
 │   ├── move_zeroes.py
+│   ├── plus_one.py
 │   ├── median_of_two_sorted_arrays.py
 │   ├── third_maximum_number.py
 │   ├── contains_duplicate.py
@@ -66,6 +70,9 @@ DSA-Practice/
 ├── LinkedLists/
 │   ├── merge_two_sorted_lists.py
 │   └── add_two_numbers.py
+├── Math/
+│   ├── Pow(x).py
+│   ├── sqrt(x).py
 ├── BitManipulation/
 │   ├── find_the_difference.py
 │   └── single_number.py
