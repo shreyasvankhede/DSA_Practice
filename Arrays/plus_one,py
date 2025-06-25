@@ -1,0 +1,38 @@
+"""
+Problem: Plus One
+LeetCode: https://leetcode.com/problems/plus-one/
+Category: Array, Math
+Approach: Recursion with carry propagation
+"""
+
+from typing import List
+
+class Solution:
+    def plusOne(self, digits: List[int]) -> List[int]:
+        self.change(digits, len(digits) - 1, 1)
+        return digits
+
+    def change(self, digits, n, c):
+        if n < 0:
+            return
+        temp = digits[n] + c
+        if temp == 10:
+            if n == 0:
+                digits.append(0)
+                digits[0] = 1 
+                c = 0
+            else:
+                digits[n] = 0
+                c = 1
+        else:
+            digits[n] = temp
+            c = 0
+        if c == 1:
+            self.change(digits, n - 1, c)
+
+
+if __name__ == "__main__":
+    # Sample test case
+    digits = [9, 9, 9]
+    sol = Solution()
+    print(sol.plusOne(digits))  # Expected output: [1, 0, 0, 0]
