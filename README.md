@@ -25,9 +25,11 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Easy       | Merge Two Sorted Lists                    | Linked List         | ✅       |
 | Easy       | Max Consecutive Ones                      | Array               | ✅       |
 | Easy       | Plus One                                  | Array               | ✅       |
+| Easy       | Sort the Students by Their Kth Score      | Array               | ✅       |
 | Easy       | Contains Duplicate                        | Array               | ✅       |
 | Easy       | Valid Anagram                             | String              | ✅       |
 | Easy       | Find the Difference                       | String/Bit Manip..  | ✅       |
+| Easy       | Combine two tables                        | Datbase/pandas      | ✅       |
 | Easy       | Pow(x)                                    | Math                | ✅       |
 | Easy       | Sqrt(x)                                   | Array/Math          | ✅       |
 | Easy       | Merge sorted Array                        | Array,Two pointer   | ✅       |
@@ -38,7 +40,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Medium     | Add Two Numbers                           | Linked List         | ✅       |
 | Hard       | Median of Two Sorted Arrays               | Array               | ✅       |
 
-> 🧠 Total Solved: 26 (21 Easy, 4 Medium,1 Hard)  
+> 🧠 Total Solved: 28 (23 Easy, 4 Medium,1 Hard)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
@@ -58,8 +60,11 @@ DSA-Practice/
 │   ├── median_of_two_sorted_arrays.py
 │   ├── third_maximum_number.py
 │   ├── contains_duplicate.py
+│   ├── sort_the_students_by_their_Kth_score
 │   ├── sort_colors.py
 │   └── maximum_subarray.py
+├── Database/
+│   └── combine_two_tables.py
 ├── Strings/
 │   ├── longest_common_prefix.py
 │   ├── roman_to_integer.py
