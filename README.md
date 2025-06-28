@@ -37,10 +37,11 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Medium     | Maximum Subarray                          | Kadane’s Algorithm  | ✅       |
 | Medium     | Move Zeroes                               | Two Pointers        | ✅       |
 | Medium     | Sort Colors                               | Dutch Flag /Pointers| ✅       |
+| Medium     | Reverse Integer                           | Math                | ✅       |
 | Medium     | Add Two Numbers                           | Linked List         | ✅       |
 | Hard       | Median of Two Sorted Arrays               | Array               | ✅       |
 
-> 🧠 Total Solved: 28 (23 Easy, 4 Medium,1 Hard)  
+> 🧠 Total Solved: 29 (23 Easy, 5 Medium,1 Hard)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
@@ -78,6 +79,7 @@ DSA-Practice/
 ├── Math/
 │   ├── Pow(x).py
 │   ├── sqrt(x).py
+│   └──reverse_integer.py
 ├── BitManipulation/
 │   ├── find_the_difference.py
 │   └── single_number.py
