@@ -34,6 +34,8 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Easy       | Sqrt(x)                                   | Array/Math          | ✅       |
 | Easy       | Merge sorted Array                        | Array,Two pointer   | ✅       |
 | Easy       | Third maximum number                      | Array               | ✅       |
+| Easy       | Concatenation of Array                    | Array               | ✅       |
+| Easy       | Remove Element                            | Array,Two pointer   | ✅       |
 | Medium     | Maximum Subarray                          | Kadane’s Algorithm  | ✅       |
 | Medium     | Move Zeroes                               | Two Pointers        | ✅       |
 | Medium     | Sort Colors                               | Dutch Flag /Pointers| ✅       |
@@ -41,7 +43,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Medium     | Add Two Numbers                           | Linked List         | ✅       |
 | Hard       | Median of Two Sorted Arrays               | Array               | ✅       |
 
-> 🧠 Total Solved: 29 (23 Easy, 5 Medium,1 Hard)  
+> 🧠 Total Solved: 31 (25 Easy, 5 Medium,1 Hard)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
@@ -63,6 +65,8 @@ DSA-Practice/
 │   ├── contains_duplicate.py
 │   ├── sort_the_students_by_their_Kth_score
 │   ├── sort_colors.py
+│   ├── remove_element.py
+│   ├── concatenation_of_array.py
 │   └── maximum_subarray.py
 ├── Database/
 │   └── combine_two_tables.py
