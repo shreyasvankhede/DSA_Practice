@@ -36,6 +36,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Easy       | Third maximum number                      | Array               | ✅       |
 | Easy       | Concatenation of Array                    | Array               | ✅       |
 | Easy       | Remove Element                            | Array,Two pointer   | ✅       |
+| Medium     | Container with most water                 | Array,Two pointer   | ✅       |
 | Medium     | Maximum Subarray                          | Kadane’s Algorithm  | ✅       |
 | Medium     | Move Zeroes                               | Two Pointers        | ✅       |
 | Medium     | Sort Colors                               | Dutch Flag /Pointers| ✅       |
@@ -89,6 +90,7 @@ DSA-Practice/
 │   └── single_number.py
 ├── TwoPointers/
 │   ├── merge_sorted_array.py
+│   ├── container_with_most_water.py
 │   └── remove_duplicates_from_sorted_array.py
 └── README.md
 ```
