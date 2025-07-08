@@ -9,42 +9,43 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 
 ## ✅ Current Progress
 
-| Difficulty | Problem Name                             | Topic               | Status   |
-|------------|-------------------------------------------|---------------------|----------|
-| Easy       | Valid Parentheses                         | Stack / String      | ✅       |
-| Easy       | Longest Common Prefix                     | String / Array      | ✅       |
-| Easy       | Majority Element                          | Array / HashMap     | ✅       |
-| Easy       | Best Time to Buy and Sell Stock           | Greedy              | ✅       |
-| Easy       | Single Number                             | HashMap / XOR       | ✅       |
-| Easy       | Two Sum                                   | HashMap             | ✅       |
-| Easy       | Roman to Integer                          | String / Math       | ✅       |
-| Easy       | Remove Duplicates from Sorted Array       | Two Pointers        | ✅       |
-| Easy       | Add Binary                                | String / Bit Logic  | ✅       |
-| Easy       | Missing Number                            | XOR / Math          | ✅       |
-| Easy       | Palindrome Number                         | Math                | ✅       |
-| Easy       | Merge Two Sorted Lists                    | Linked List         | ✅       |
-| Easy       | Max Consecutive Ones                      | Array               | ✅       |
-| Easy       | Plus One                                  | Array               | ✅       |
-| Easy       | Sort the Students by Their Kth Score      | Array               | ✅       |
-| Easy       | Contains Duplicate                        | Array               | ✅       |
-| Easy       | Valid Anagram                             | String              | ✅       |
-| Easy       | Find the Difference                       | String/Bit Manip..  | ✅       |
-| Easy       | Combine two tables                        | Datbase/pandas      | ✅       |
-| Easy       | Pow(x)                                    | Math                | ✅       |
-| Easy       | Sqrt(x)                                   | Array/Math          | ✅       |
-| Easy       | Merge sorted Array                        | Array,Two pointer   | ✅       |
-| Easy       | Third maximum number                      | Array               | ✅       |
-| Easy       | Concatenation of Array                    | Array               | ✅       |
-| Easy       | Remove Element                            | Array,Two pointer   | ✅       |
-| Medium     | Container with most water                 | Array,Two pointer   | ✅       |
-| Medium     | Maximum Subarray                          | Kadane’s Algorithm  | ✅       |
-| Medium     | Move Zeroes                               | Two Pointers        | ✅       |
-| Medium     | Sort Colors                               | Dutch Flag /Pointers| ✅       |
-| Medium     | Reverse Integer                           | Math                | ✅       |
-| Medium     | Add Two Numbers                           | Linked List         | ✅       |
-| Hard       | Median of Two Sorted Arrays               | Array               | ✅       |
+| Difficulty | Problem Name                                      | Topic               | Status   |
+|------------|---------------------------------------------------|---------------------|----------|
+| Easy       | Valid Parentheses                                 | Stack / String      | ✅       |
+| Easy       | Longest Common Prefix                             | String / Array      | ✅       |
+| Easy       | Majority Element                                  | Array / HashMap     | ✅       |
+| Easy       | Best Time to Buy and Sell Stock                   | Greedy              | ✅       |
+| Easy       | Single Number                                     | HashMap / XOR       | ✅       |
+| Easy       | Two Sum                                           | HashMap             | ✅       |
+| Easy       | Roman to Integer                                  | String / Math       | ✅       |
+| Easy       | Remove Duplicates from Sorted Array               | Two Pointers        | ✅       |
+| Easy       | Add Binary                                        | String / Bit Logic  | ✅       |
+| Easy       | Missing Number                                    | XOR / Math          | ✅       |
+| Easy       | Palindrome Number                                 | Math                | ✅       |
+| Easy       | Merge Two Sorted Lists                            | Linked List         | ✅       |
+| Easy       | Max Consecutive Ones                              | Array               | ✅       |
+| Easy       | Plus One                                          | Array               | ✅       |
+| Easy       | Sort the Students by Their Kth Score              | Array               | ✅       |
+| Easy       | Contains Duplicate                                | Array               | ✅       |
+| Easy       | Valid Anagram                                     | String              | ✅       |
+| Easy       | Find the Difference                               | String/Bit Manip..  | ✅       |
+| Easy       | Combine two tables                                | Datbase/pandas      | ✅       |
+| Easy       | Pow(x)                                            | Math                | ✅       |
+| Easy       | Sqrt(x)                                           | Array/Math          | ✅       |
+| Easy       | Merge sorted Array                                | Array,Two pointer   | ✅       |
+| Easy       | Third maximum number                              | Array               | ✅       |
+| Easy       | Concatenation of Array                            | Array               | ✅       |
+| Easy       | Remove Element                                    | Array,Two pointer   | ✅       |
+| Medium     | Container with most water                         | Array,Two pointer   | ✅       |
+| Medium     | Find the Index of the First Occurrence in a String| Two Pointers        | ✅       |
+| Medium     | Maximum Subarray                                  | Kadane’s Algorithm  | ✅       |
+| Medium     | Move Zeroes                                       | Two Pointers        | ✅       |
+| Medium     | Sort Colors                                       | Dutch Flag /Pointers| ✅       |
+| Medium     | Reverse Integer                                   | Math                | ✅       |
+| Medium     | Add Two Numbers                                   | Linked List         | ✅       |
+| Hard       | Median of Two Sorted Arrays                       | Array               | ✅       |
 
-> 🧠 Total Solved: 31 (25 Easy, 5 Medium,1 Hard)  
+> 🧠 Total Solved: 32 (26 Easy, 5 Medium,1 Hard)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
@@ -91,6 +92,7 @@ DSA-Practice/
 ├── TwoPointers/
 │   ├── merge_sorted_array.py
 │   ├── container_with_most_water.py
+│   ├── find_the_index_of_the_first_occurrence_in_a_string.py
 │   └── remove_duplicates_from_sorted_array.py
 └── README.md
 ```
