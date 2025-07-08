@@ -45,7 +45,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Medium     | Add Two Numbers                                   | Linked List         | ✅       |
 | Hard       | Median of Two Sorted Arrays                       | Array               | ✅       |
 
-> 🧠 Total Solved: 32 (26 Easy, 5 Medium,1 Hard)  
+> 🧠 Total Solved: 33 (25 Easy, 7 Medium,1 Hard)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
