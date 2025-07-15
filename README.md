@@ -27,6 +27,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Easy       | Plus One                                          | Array               | ✅       |
 | Easy       | Sort the Students by Their Kth Score              | Array               | ✅       |
 | Easy       | Contains Duplicate                                | Array               | ✅       |
+| Easy       | Shuffle the Array                                 | Array               | ✅       |
 | Easy       | Valid Anagram                                     | String              | ✅       |
 | Easy       | Find the Difference                               | String/Bit Manip..  | ✅       |
 | Easy       | Combine two tables                                | Datbase/pandas      | ✅       |
@@ -68,6 +69,7 @@ DSA-Practice/
 │   ├── sort_the_students_by_their_Kth_score
 │   ├── sort_colors.py
 │   ├── remove_element.py
+│   ├── shuffle_the_array.py
 │   ├── concatenation_of_array.py
 │   └── maximum_subarray.py
 ├── Database/
