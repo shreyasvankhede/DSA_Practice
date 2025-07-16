@@ -37,6 +37,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Easy       | Third maximum number                              | Array               | ✅       |
 | Easy       | Concatenation of Array                            | Array               | ✅       |
 | Easy       | Remove Element                                    | Array,Two pointer   | ✅       |
+| Easy       | Linked List Cycle                                 | Two Pointers        | ✅       |
 | Medium     | Container with most water                         | Array,Two pointer   | ✅       |
 | Medium     | Find the Index of the First Occurrence in a String| Two Pointers        | ✅       |
 | Medium     | Maximum Subarray                                  | Kadane’s Algorithm  | ✅       |
@@ -46,7 +47,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Medium     | Add Two Numbers                                   | Linked List         | ✅       |
 | Hard       | Median of Two Sorted Arrays                       | Array               | ✅       |
 
-> 🧠 Total Solved: 33 (25 Easy, 7 Medium,1 Hard)  
+> 🧠 Total Solved: 35 (27 Easy, 7 Medium,1 Hard)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
@@ -93,6 +94,7 @@ DSA-Practice/
 │   └── single_number.py
 ├── TwoPointers/
 │   ├── merge_sorted_array.py
+│   ├── linked_list_cycle.py
 │   ├── container_with_most_water.py
 │   ├── find_the_index_of_the_first_occurrence_in_a_string.py
 │   └── remove_duplicates_from_sorted_array.py
