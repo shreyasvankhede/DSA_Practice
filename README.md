@@ -31,6 +31,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Easy       | Valid Anagram                                     | String              | ✅       |
 | Easy       | Find the Difference                               | String/Bit Manip..  | ✅       |
 | Easy       | Combine two tables                                | Datbase/pandas      | ✅       |
+| Easy       | Happy Number                                      | Math                | ✅       |
 | Easy       | Add Digits                                        | Math                | ✅       |
 | Easy       | Pow(x)                                            | Math                | ✅       |
 | Easy       | Sqrt(x)                                           | Array/Math          | ✅       |
@@ -48,7 +49,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Medium     | Add Two Numbers                                   | Linked List         | ✅       |
 | Hard       | Median of Two Sorted Arrays                       | Array               | ✅       |
 
-> 🧠 Total Solved: 36 (28 Easy, 7 Medium,1 Hard)  
+> 🧠 Total Solved: 37 (29 Easy, 7 Medium,1 Hard)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
@@ -90,6 +91,7 @@ DSA-Practice/
 │   ├── Pow(x).py
 │   ├── sqrt(x).py
 │   ├── add_digits.py
+│   ├── happy_number.py
 │   └──reverse_integer.py
 ├── BitManipulation/
 │   ├── find_the_difference.py
