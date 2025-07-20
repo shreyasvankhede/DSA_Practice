@@ -42,6 +42,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Easy       | Linked List Cycle                                 | Two Pointers        | ✅       |
 | Medium     | Container with most water                         | Array,Two pointer   | ✅       |
 | Medium     | Find the Index of the First Occurrence in a String| Two Pointers        | ✅       |
+| Medium     | Group Anagrams                                    | Array/HashMap       | ✅       |
 | Medium     | Maximum Subarray                                  | Kadane’s Algorithm  | ✅       |
 | Medium     | Move Zeroes                                       | Two Pointers        | ✅       |
 | Medium     | Sort Colors                                       | Dutch Flag /Pointers| ✅       |
@@ -49,7 +50,7 @@ This repository contains LeetCode-style data structure and algorithm problems I'
 | Medium     | Add Two Numbers                                   | Linked List         | ✅       |
 | Hard       | Median of Two Sorted Arrays                       | Array               | ✅       |
 
-> 🧠 Total Solved: 37 (29 Easy, 7 Medium,1 Hard)  
+> 🧠 Total Solved: 38 (29 Easy, 8 Medium,1 Hard)  
 > 🔗 [View my LeetCode profile](https://leetcode.com/u/shreyas_vankhede/)
 
 ---
@@ -61,6 +62,7 @@ DSA-Practice/
 ├── Arrays/
 │   ├── two_sum.py
 │   ├── majority_element.py
+│   ├── group_anagrams.py
 │   ├── best_time_to_buy_sell_stock.py
 │   ├── missing_number.py
 │   ├── max_consecutive_ones.py
